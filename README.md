@@ -38,4 +38,4 @@ Yes, it's built and tested for Windows.
 - 📖 **Docs & guides:** [https://bandwidth-monitor-turbo.softonx.xyz](https://bandwidth-monitor-turbo.softonx.xyz)
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.        
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.         
